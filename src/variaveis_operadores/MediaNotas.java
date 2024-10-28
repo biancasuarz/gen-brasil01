@@ -1,3 +1,5 @@
+package variaveis_operadores;
+
 import java.util.Scanner;
 
 public class MediaNotas {
