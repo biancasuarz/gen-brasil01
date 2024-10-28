@@ -2,7 +2,7 @@ package variaveis_operadores;
 
 import java.util.Scanner;
 
-public class CalculoResto {
+public class CalculoDiferenca {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -21,9 +21,9 @@ public class CalculoResto {
         System.out.println("Digite o quarto número: ");
         float n4 = sc.nextFloat();
 
-        float resto = (n1 * n2) - (n3 * n4);
+        float diferenca = (n1 * n2) - (n3 * n4);
 
-        System.out.println(" A diferença é: " + resto);
+        System.out.println(" A diferença é: " + diferenca);
 
         sc.close();
     }
