@@ -3,6 +3,7 @@ package variaveis_operadores;
 import java.util.Scanner;
 
 public class MediaNotas {
+
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
