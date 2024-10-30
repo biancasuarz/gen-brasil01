@@ -2,7 +2,7 @@ package lacos_repeticao;
 
 import java.util.Scanner;
 
-public class verificarIdade {
+public class VerificarIdade {
 
     public static void main(String[] args) {
 
